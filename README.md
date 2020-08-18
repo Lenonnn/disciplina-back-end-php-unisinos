@@ -9,3 +9,5 @@
 - Para finalizar, abra seu navegador, na porta em que o xampp está rodando e logo após, coloque o nome da pasta criado e sua aplicação estará rodando. Verifique exemplo abaixo:
 
 ``` http://localhost:8080/gamesApp/  ```
+
+Aula da cadeira de desenvolvimento backend do curso de Gestão da Tecnologia da Informação da [Unisinos](http://www.unisinos.br/).
